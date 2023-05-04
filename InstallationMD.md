@@ -1,5 +1,5 @@
 # Présentation, installation et paramétrage d'un serveur LAMP / Wordpress
-## Architecture client Serveur N-Tiers
+## Architecture client Serveur N-Tiers  
 ![image Architecture](Screen\ArchitectureLAMP.png)
 ## Baseline Debian
 ### modification bashrc root 
