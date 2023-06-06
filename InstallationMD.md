@@ -5,7 +5,7 @@
 ### modification bashrc root 
 **cd /root**  
 **nano .bashrc**
-![img](Screen\bashrc.png)
+![legend](https://github.com/baaldees/InstallationLAMP_wordpress_MartiA/blob/master/Screen/bashrc.png)
 ### modification ip fixe plus nommage machine et domaine
 ### installation des utilitaires usuels du système 
 **apt install nmap zip dnsutils net-tools tzdata lynx ssh sudo curl git screen**  
